@@ -4,7 +4,7 @@
     "description": "A module containing the exported Megapack1 compendium.",
     "version": "1.0.4",
     "library": "false",
-    "manifestPlusVersion": "1.0.0",
+    "manifestPlusVersion": "1.0.4",
     "compatibility": {
         "minimum": 10,
         "verified": 11,
