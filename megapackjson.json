@@ -1,0 +1,32 @@
+{
+    "name": "MMMmegapack1",
+    "title": "Megapack1",
+    "description": "A module containing the exported Megapack1 compendium.",
+    "version": "1.0.0",
+    "library": "false",
+    "manifestPlusVersion": "1.0.0",
+    "compatibility": {
+        "minimum": 10,
+        "verified": 11,
+        "maximum": 12
+    },
+    "authors": [
+        {
+            "name": "Gamemaster",
+            "email": "",
+            "url": ""
+        }
+    ],
+    "packs": [
+        {
+            "type": "Actor",
+            "label": "Megapack1",
+            "module": "MMMmegapack1",
+            "path": "packs/mordys-magnificent-monsters-megapack1-1691201944064.db",
+            "name": "mordys-magnificent-monsters-megapack1-1691201944064",
+            "system": "dnd5e"
+        }
+    ],
+    "manifest": "http://localhost:30000/compendium2module/MMMmegapack1/module.json",
+    "download": "http://localhost:30000/compendium2module/MMMmegapack1/module-zip.txt"
+}
